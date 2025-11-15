@@ -1,0 +1,774 @@
+{"level":"info","message":"Server running in development mode on port 8081","service":"timetracking-api","timestamp":"2025-11-15 02:32:34"}
+{"level":"info","message":"MongoDB Connected: ac-ouq4a8c-shard-00-02.6ymsfwh.mongodb.net","service":"timetracking-api","timestamp":"2025-11-15 02:32:38"}
+{"level":"info","message":"POST /api/auth/register","service":"timetracking-api","timestamp":"2025-11-15 02:37:05"}
+{"level":"info","message":"New user registered: savaniparth001@gmail.com","service":"timetracking-api","timestamp":"2025-11-15 02:37:05"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:37:05"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:37:06"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 02:37:06"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 02:37:06"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 02:37:06"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:37:07"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 02:37:07"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:37:08"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:37:13"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:37:13"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 02:37:14"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:37:19"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:37:20"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 02:37:20"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 02:37:20"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 02:37:20"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 02:37:21"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:37:21"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:37:21"}
+{"level":"info","message":"POST /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:39:01"}
+{"level":"info","message":"Job created: 69179a6dfc82f23f56bfa18e by user: 691799f9fc82f23f56bfa161","service":"timetracking-api","timestamp":"2025-11-15 02:39:02"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:39:02"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:39:02"}
+{"level":"info","message":"GET /api/jobs/69179a6dfc82f23f56bfa18e","service":"timetracking-api","timestamp":"2025-11-15 02:39:06"}
+{"level":"info","message":"GET /api/jobs/69179a6dfc82f23f56bfa18e","service":"timetracking-api","timestamp":"2025-11-15 02:39:07"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:39:15"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:39:16"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:39:17"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:39:17"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:39:17"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:39:17"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:39:20"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:39:23"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:39:26"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:39:35"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:39:37"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 02:39:37"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 02:39:37"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 02:39:38"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:39:38"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 02:39:38"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:39:39"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:39:45"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:39:46"}
+{"level":"info","message":"POST /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:40:35"}
+{"level":"info","message":"Time entry created: 69179accfc82f23f56bfa1d7 by user: 691799f9fc82f23f56bfa161","service":"timetracking-api","timestamp":"2025-11-15 02:40:36"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:40:36"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:40:36"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:40:37"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:40:37"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:40:43"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:40:44"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 02:40:44"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 02:40:45"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 02:40:45"}
+{"level":"error","message":"Error: Cast to ObjectId failed for value \"{\\n' +\n  \"  _id: new ObjectId('69179a6dfc82f23f56bfa18e'),\\n\" +\n  \"  title: 'Test',\\n\" +\n  \"  companyName: 'Acme Co',\\n\" +\n  \"  companyOwnerName: 'Sureshbhai',\\n\" +\n  \"  contactNumber: '0987654321'\\n\" +\n  '}\" (type string) at path \"jobId\" for model \"RateChange\"","service":"timetracking-api","stack":"CastError: Cast to ObjectId failed for value \"{\\n' +\n  \"  _id: new ObjectId('69179a6dfc82f23f56bfa18e'),\\n\" +\n  \"  title: 'Test',\\n\" +\n  \"  companyName: 'Acme Co',\\n\" +\n  \"  companyOwnerName: 'Sureshbhai',\\n\" +\n  \"  contactNumber: '0987654321'\\n\" +\n  '}\" (type string) at path \"jobId\" for model \"RateChange\"\n    at SchemaObjectId.cast (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/schema/objectId.js:251:11)\n    at SchemaType.applySetters (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/schemaType.js:1262:12)\n    at SchemaType.castForQuery (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/schemaType.js:1698:17)\n    at cast (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/cast.js:390:32)\n    at Query.cast (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:5060:12)\n    at Query._castConditions (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:2374:10)\n    at model.Query._find (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:2401:8)\n    at model.Query.exec (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:4627:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async exports.calculateJobWiseSalary (/Users/SParth/Documents/new1/backend/utils/salaryCalculator.js:113:25)","timestamp":"2025-11-15 02:40:46"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 02:40:46"}
+{"level":"error","message":"Error: Cast to ObjectId failed for value \"{\\n' +\n  \"  _id: new ObjectId('69179a6dfc82f23f56bfa18e'),\\n\" +\n  \"  title: 'Test',\\n\" +\n  \"  companyName: 'Acme Co',\\n\" +\n  \"  companyOwnerName: 'Sureshbhai',\\n\" +\n  \"  contactNumber: '0987654321'\\n\" +\n  '}\" (type string) at path \"jobId\" for model \"RateChange\"","service":"timetracking-api","stack":"CastError: Cast to ObjectId failed for value \"{\\n' +\n  \"  _id: new ObjectId('69179a6dfc82f23f56bfa18e'),\\n\" +\n  \"  title: 'Test',\\n\" +\n  \"  companyName: 'Acme Co',\\n\" +\n  \"  companyOwnerName: 'Sureshbhai',\\n\" +\n  \"  contactNumber: '0987654321'\\n\" +\n  '}\" (type string) at path \"jobId\" for model \"RateChange\"\n    at SchemaObjectId.cast (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/schema/objectId.js:251:11)\n    at SchemaType.applySetters (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/schemaType.js:1262:12)\n    at SchemaType.castForQuery (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/schemaType.js:1698:17)\n    at cast (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/cast.js:390:32)\n    at Query.cast (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:5060:12)\n    at Query._castConditions (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:2374:10)\n    at model.Query._find (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:2401:8)\n    at model.Query.exec (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:4627:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async exports.calculateJobWiseSalary (/Users/SParth/Documents/new1/backend/utils/salaryCalculator.js:113:25)","timestamp":"2025-11-15 02:40:47"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:40:52"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:40:53"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:40:54"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:40:54"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:40:55"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:40:56"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:41:01"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:41:02"}
+{"level":"info","message":"GET /api/reports/salary/monthly","service":"timetracking-api","timestamp":"2025-11-15 02:41:07"}
+{"level":"error","message":"Error: Cast to ObjectId failed for value \"{\\n' +\n  \"  _id: new ObjectId('69179a6dfc82f23f56bfa18e'),\\n\" +\n  \"  title: 'Test',\\n\" +\n  \"  companyName: 'Acme Co',\\n\" +\n  \"  companyOwnerName: 'Sureshbhai',\\n\" +\n  \"  contactNumber: '0987654321'\\n\" +\n  '}\" (type string) at path \"jobId\" for model \"RateChange\"","service":"timetracking-api","stack":"CastError: Cast to ObjectId failed for value \"{\\n' +\n  \"  _id: new ObjectId('69179a6dfc82f23f56bfa18e'),\\n\" +\n  \"  title: 'Test',\\n\" +\n  \"  companyName: 'Acme Co',\\n\" +\n  \"  companyOwnerName: 'Sureshbhai',\\n\" +\n  \"  contactNumber: '0987654321'\\n\" +\n  '}\" (type string) at path \"jobId\" for model \"RateChange\"\n    at SchemaObjectId.cast (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/schema/objectId.js:251:11)\n    at SchemaType.applySetters (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/schemaType.js:1262:12)\n    at SchemaType.castForQuery (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/schemaType.js:1698:17)\n    at cast (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/cast.js:390:32)\n    at Query.cast (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:5060:12)\n    at Query._castConditions (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:2374:10)\n    at model.Query._find (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:2401:8)\n    at model.Query.exec (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:4627:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async exports.calculateJobWiseSalary (/Users/SParth/Documents/new1/backend/utils/salaryCalculator.js:113:25)","timestamp":"2025-11-15 02:41:08"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 02:41:13"}
+{"level":"error","message":"Error: Cast to ObjectId failed for value \"{\\n' +\n  \"  _id: new ObjectId('69179a6dfc82f23f56bfa18e'),\\n\" +\n  \"  title: 'Test',\\n\" +\n  \"  companyName: 'Acme Co',\\n\" +\n  \"  companyOwnerName: 'Sureshbhai',\\n\" +\n  \"  contactNumber: '0987654321'\\n\" +\n  '}\" (type string) at path \"jobId\" for model \"RateChange\"","service":"timetracking-api","stack":"CastError: Cast to ObjectId failed for value \"{\\n' +\n  \"  _id: new ObjectId('69179a6dfc82f23f56bfa18e'),\\n\" +\n  \"  title: 'Test',\\n\" +\n  \"  companyName: 'Acme Co',\\n\" +\n  \"  companyOwnerName: 'Sureshbhai',\\n\" +\n  \"  contactNumber: '0987654321'\\n\" +\n  '}\" (type string) at path \"jobId\" for model \"RateChange\"\n    at SchemaObjectId.cast (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/schema/objectId.js:251:11)\n    at SchemaType.applySetters (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/schemaType.js:1262:12)\n    at SchemaType.castForQuery (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/schemaType.js:1698:17)\n    at cast (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/cast.js:390:32)\n    at Query.cast (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:5060:12)\n    at Query._castConditions (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:2374:10)\n    at model.Query._find (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:2401:8)\n    at model.Query.exec (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:4627:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async exports.calculateJobWiseSalary (/Users/SParth/Documents/new1/backend/utils/salaryCalculator.js:113:25)","timestamp":"2025-11-15 02:41:13"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:41:18"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:41:19"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 02:41:19"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 02:41:19"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 02:41:19"}
+{"level":"error","message":"Error: Cast to ObjectId failed for value \"{\\n' +\n  \"  _id: new ObjectId('69179a6dfc82f23f56bfa18e'),\\n\" +\n  \"  title: 'Test',\\n\" +\n  \"  companyName: 'Acme Co',\\n\" +\n  \"  companyOwnerName: 'Sureshbhai',\\n\" +\n  \"  contactNumber: '0987654321'\\n\" +\n  '}\" (type string) at path \"jobId\" for model \"RateChange\"","service":"timetracking-api","stack":"CastError: Cast to ObjectId failed for value \"{\\n' +\n  \"  _id: new ObjectId('69179a6dfc82f23f56bfa18e'),\\n\" +\n  \"  title: 'Test',\\n\" +\n  \"  companyName: 'Acme Co',\\n\" +\n  \"  companyOwnerName: 'Sureshbhai',\\n\" +\n  \"  contactNumber: '0987654321'\\n\" +\n  '}\" (type string) at path \"jobId\" for model \"RateChange\"\n    at SchemaObjectId.cast (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/schema/objectId.js:251:11)\n    at SchemaType.applySetters (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/schemaType.js:1262:12)\n    at SchemaType.castForQuery (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/schemaType.js:1698:17)\n    at cast (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/cast.js:390:32)\n    at Query.cast (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:5060:12)\n    at Query._castConditions (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:2374:10)\n    at model.Query._find (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:2401:8)\n    at model.Query.exec (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:4627:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async exports.calculateJobWiseSalary (/Users/SParth/Documents/new1/backend/utils/salaryCalculator.js:113:25)","timestamp":"2025-11-15 02:41:20"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 02:41:20"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:41:21"}
+{"level":"error","message":"Error: Cast to ObjectId failed for value \"{\\n' +\n  \"  _id: new ObjectId('69179a6dfc82f23f56bfa18e'),\\n\" +\n  \"  title: 'Test',\\n\" +\n  \"  companyName: 'Acme Co',\\n\" +\n  \"  companyOwnerName: 'Sureshbhai',\\n\" +\n  \"  contactNumber: '0987654321'\\n\" +\n  '}\" (type string) at path \"jobId\" for model \"RateChange\"","service":"timetracking-api","stack":"CastError: Cast to ObjectId failed for value \"{\\n' +\n  \"  _id: new ObjectId('69179a6dfc82f23f56bfa18e'),\\n\" +\n  \"  title: 'Test',\\n\" +\n  \"  companyName: 'Acme Co',\\n\" +\n  \"  companyOwnerName: 'Sureshbhai',\\n\" +\n  \"  contactNumber: '0987654321'\\n\" +\n  '}\" (type string) at path \"jobId\" for model \"RateChange\"\n    at SchemaObjectId.cast (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/schema/objectId.js:251:11)\n    at SchemaType.applySetters (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/schemaType.js:1262:12)\n    at SchemaType.castForQuery (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/schemaType.js:1698:17)\n    at cast (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/cast.js:390:32)\n    at Query.cast (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:5060:12)\n    at Query._castConditions (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:2374:10)\n    at model.Query._find (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:2401:8)\n    at model.Query.exec (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:4627:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async exports.calculateJobWiseSalary (/Users/SParth/Documents/new1/backend/utils/salaryCalculator.js:113:25)","timestamp":"2025-11-15 02:41:21"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:41:21"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:41:24"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:41:24"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:41:24"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:41:25"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:41:27"}
+{"level":"info","message":"GET /api/time-entries/69179accfc82f23f56bfa1d7","service":"timetracking-api","timestamp":"2025-11-15 02:41:27"}
+{"level":"info","message":"GET /api/time-entries/69179accfc82f23f56bfa1d7","service":"timetracking-api","timestamp":"2025-11-15 02:41:28"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:41:28"}
+{"level":"info","message":"PUT /api/time-entries/69179accfc82f23f56bfa1d7","service":"timetracking-api","timestamp":"2025-11-15 02:41:34"}
+{"level":"info","message":"Time entry updated: 69179accfc82f23f56bfa1d7 by user: 691799f9fc82f23f56bfa161","service":"timetracking-api","timestamp":"2025-11-15 02:41:35"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:41:35"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:41:35"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:41:36"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:41:36"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:41:43"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:41:46"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:41:50"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:41:52"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:41:59"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:42:10"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:42:14"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:42:14"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 02:42:24"}
+{"level":"error","message":"Error: Cast to ObjectId failed for value \"{\\n' +\n  \"  _id: new ObjectId('69179a6dfc82f23f56bfa18e'),\\n\" +\n  \"  title: 'Test',\\n\" +\n  \"  companyName: 'Acme Co',\\n\" +\n  \"  companyOwnerName: 'Sureshbhai',\\n\" +\n  \"  contactNumber: '0987654321'\\n\" +\n  '}\" (type string) at path \"jobId\" for model \"RateChange\"","service":"timetracking-api","stack":"CastError: Cast to ObjectId failed for value \"{\\n' +\n  \"  _id: new ObjectId('69179a6dfc82f23f56bfa18e'),\\n\" +\n  \"  title: 'Test',\\n\" +\n  \"  companyName: 'Acme Co',\\n\" +\n  \"  companyOwnerName: 'Sureshbhai',\\n\" +\n  \"  contactNumber: '0987654321'\\n\" +\n  '}\" (type string) at path \"jobId\" for model \"RateChange\"\n    at SchemaObjectId.cast (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/schema/objectId.js:251:11)\n    at SchemaType.applySetters (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/schemaType.js:1262:12)\n    at SchemaType.castForQuery (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/schemaType.js:1698:17)\n    at cast (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/cast.js:390:32)\n    at Query.cast (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:5060:12)\n    at Query._castConditions (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:2374:10)\n    at model.Query._find (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:2401:8)\n    at model.Query.exec (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:4627:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async exports.calculateJobWiseSalary (/Users/SParth/Documents/new1/backend/utils/salaryCalculator.js:113:25)","timestamp":"2025-11-15 02:42:25"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 02:42:33"}
+{"level":"error","message":"Error: Cast to ObjectId failed for value \"{\\n' +\n  \"  _id: new ObjectId('69179a6dfc82f23f56bfa18e'),\\n\" +\n  \"  title: 'Test',\\n\" +\n  \"  companyName: 'Acme Co',\\n\" +\n  \"  companyOwnerName: 'Sureshbhai',\\n\" +\n  \"  contactNumber: '0987654321'\\n\" +\n  '}\" (type string) at path \"jobId\" for model \"RateChange\"","service":"timetracking-api","stack":"CastError: Cast to ObjectId failed for value \"{\\n' +\n  \"  _id: new ObjectId('69179a6dfc82f23f56bfa18e'),\\n\" +\n  \"  title: 'Test',\\n\" +\n  \"  companyName: 'Acme Co',\\n\" +\n  \"  companyOwnerName: 'Sureshbhai',\\n\" +\n  \"  contactNumber: '0987654321'\\n\" +\n  '}\" (type string) at path \"jobId\" for model \"RateChange\"\n    at SchemaObjectId.cast (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/schema/objectId.js:251:11)\n    at SchemaType.applySetters (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/schemaType.js:1262:12)\n    at SchemaType.castForQuery (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/schemaType.js:1698:17)\n    at cast (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/cast.js:390:32)\n    at Query.cast (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:5060:12)\n    at Query._castConditions (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:2374:10)\n    at model.Query._find (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:2401:8)\n    at model.Query.exec (/Users/SParth/Documents/new1/backend/node_modules/mongoose/lib/query.js:4627:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async exports.calculateJobWiseSalary (/Users/SParth/Documents/new1/backend/utils/salaryCalculator.js:113:25)","timestamp":"2025-11-15 02:42:33"}
+{"level":"info","message":"Server running in development mode on port 8081","service":"timetracking-api","timestamp":"2025-11-15 02:45:25"}
+{"level":"info","message":"MongoDB Connected: ac-ouq4a8c-shard-00-00.6ymsfwh.mongodb.net","service":"timetracking-api","timestamp":"2025-11-15 02:45:28"}
+{"level":"info","message":"POST /api/auth/login","service":"timetracking-api","timestamp":"2025-11-15 02:45:40"}
+{"level":"info","message":"User logged in: savaniparth001@gmail.com","service":"timetracking-api","timestamp":"2025-11-15 02:45:41"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:45:41"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:45:41"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 02:45:41"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 02:45:42"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 02:45:42"}
+{"level":"warn","message":"No rate found for time entry 69179accfc82f23f56bfa1d7","service":"timetracking-api","timestamp":"2025-11-15 02:45:43"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-30T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 02:45:43"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 02:45:43"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:45:43"}
+{"level":"warn","message":"No rate found for time entry 69179accfc82f23f56bfa1d7","service":"timetracking-api","timestamp":"2025-11-15 02:45:44"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-30T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 02:45:44"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:45:44"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:45:51"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:45:51"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:45:52"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:45:53"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:45:55"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:45:56"}
+{"level":"info","message":"GET /api/reports/salary/monthly","service":"timetracking-api","timestamp":"2025-11-15 02:46:05"}
+{"level":"warn","message":"No rate found for time entry 69179accfc82f23f56bfa1d7","service":"timetracking-api","timestamp":"2025-11-15 02:46:06"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-30T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 02:46:06"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:46:13"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:46:13"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:46:15"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:46:15"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:46:18"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:46:18"}
+{"level":"info","message":"POST /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:46:44"}
+{"level":"info","message":"Time entry created: 69179c3c2c85d7a1daae22e1 by user: 691799f9fc82f23f56bfa161","service":"timetracking-api","timestamp":"2025-11-15 02:46:44"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:46:44"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:46:44"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:46:45"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:46:45"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:46:52"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:46:52"}
+{"level":"info","message":"GET /api/reports/salary/monthly","service":"timetracking-api","timestamp":"2025-11-15 02:46:56"}
+{"level":"warn","message":"No rate found for time entry 69179accfc82f23f56bfa1d7","service":"timetracking-api","timestamp":"2025-11-15 02:46:57"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-30T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 02:46:57"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:47:15"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:47:16"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:47:17"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:47:17"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:47:18"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:47:18"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:47:22"}
+{"level":"info","message":"GET /api/time-entries/69179accfc82f23f56bfa1d7","service":"timetracking-api","timestamp":"2025-11-15 02:47:22"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:47:23"}
+{"level":"info","message":"GET /api/time-entries/69179accfc82f23f56bfa1d7","service":"timetracking-api","timestamp":"2025-11-15 02:47:23"}
+{"level":"info","message":"PUT /api/time-entries/69179accfc82f23f56bfa1d7","service":"timetracking-api","timestamp":"2025-11-15 02:47:33"}
+{"level":"info","message":"Time entry updated: 69179accfc82f23f56bfa1d7 by user: 691799f9fc82f23f56bfa161","service":"timetracking-api","timestamp":"2025-11-15 02:47:34"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:47:34"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:47:34"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:47:35"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:47:35"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:47:38"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:47:39"}
+{"level":"info","message":"GET /api/reports/salary/monthly","service":"timetracking-api","timestamp":"2025-11-15 02:47:41"}
+{"level":"warn","message":"No rate found for time entry 69179accfc82f23f56bfa1d7","service":"timetracking-api","timestamp":"2025-11-15 02:47:42"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-30T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 02:47:42"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 02:49:49"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 02:49:49"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:49:49"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:49:50"}
+{"level":"info","message":"GET /api/reports/salary/monthly","service":"timetracking-api","timestamp":"2025-11-15 02:49:52"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-30T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 02:49:53"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:50:05"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:50:06"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 02:50:06"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 02:50:06"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 02:50:07"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-30T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 02:50:07"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 02:50:07"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:50:07"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-30T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 02:50:08"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:50:08"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:50:13"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:50:17"}
+{"level":"info","message":"POST /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:50:34"}
+{"level":"info","message":"Time entry created: 69179d232c85d7a1daae2369 by user: 691799f9fc82f23f56bfa161","service":"timetracking-api","timestamp":"2025-11-15 02:50:35"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:50:35"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:50:35"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:50:36"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:50:36"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:50:38"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:50:39"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 02:50:39"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 02:50:39"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 02:50:40"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-30T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 02:50:40"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 02:50:40"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:50:40"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-30T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 02:50:41"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:50:41"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:50:48"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:50:48"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 02:50:49"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 02:50:49"}
+{"level":"info","message":"Server running in development mode on port 8081","service":"timetracking-api","timestamp":"2025-11-15 11:11:50"}
+{"level":"info","message":"MongoDB Connected: ac-ouq4a8c-shard-00-01.6ymsfwh.mongodb.net","service":"timetracking-api","timestamp":"2025-11-15 11:11:52"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 11:11:53"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 11:11:56"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:11:56"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 11:11:56"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:11:57"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 11:11:57"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:12:04"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:12:05"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 11:12:05"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 11:12:06"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 11:12:06"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-30T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 11:12:07"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 11:12:07"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 11:12:07"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-30T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 11:12:08"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 11:12:08"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:12:50"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:12:50"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:12:52"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 11:12:52"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:12:52"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 11:12:53"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:12:53"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:12:54"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 11:13:26"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 11:14:20"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-11-13 to 2025-11-17","service":"timetracking-api","timestamp":"2025-11-15 11:14:21"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 11:26:34"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 11:26:34"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:26:34"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:26:35"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:26:40"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:26:40"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 11:26:40"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 11:26:41"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 11:26:41"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-30T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 11:26:42"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 11:26:42"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 11:26:42"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-30T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 11:26:43"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 11:26:43"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:26:53"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:26:54"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 11:27:25"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 11:27:25"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:27:26"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:27:26"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:27:42"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 11:27:42"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 11:27:43"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:27:43"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:27:46"}
+{"level":"info","message":"GET /api/time-entries/69179c3c2c85d7a1daae22e1","service":"timetracking-api","timestamp":"2025-11-15 11:27:46"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:27:47"}
+{"level":"info","message":"GET /api/time-entries/69179c3c2c85d7a1daae22e1","service":"timetracking-api","timestamp":"2025-11-15 11:27:47"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:27:53"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 11:27:53"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:27:54"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 11:27:54"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:28:03"}
+{"level":"info","message":"GET /api/time-entries/69179c3c2c85d7a1daae22e1","service":"timetracking-api","timestamp":"2025-11-15 11:28:03"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:28:03"}
+{"level":"info","message":"GET /api/time-entries/69179c3c2c85d7a1daae22e1","service":"timetracking-api","timestamp":"2025-11-15 11:28:03"}
+{"level":"info","message":"PUT /api/time-entries/69179c3c2c85d7a1daae22e1","service":"timetracking-api","timestamp":"2025-11-15 11:28:10"}
+{"level":"info","message":"Time entry updated: 69179c3c2c85d7a1daae22e1 by user: 691799f9fc82f23f56bfa161","service":"timetracking-api","timestamp":"2025-11-15 11:28:11"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:28:11"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 11:28:11"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:28:12"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 11:28:12"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 11:55:50"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 11:55:54"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:55:54"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 11:55:54"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:55:57"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 11:55:57"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 11:56:07"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:56:13"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:56:14"}
+{"level":"info","message":"POST /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 11:56:46"}
+{"level":"info","message":"Time entry created: 69181d27c4193002d88a80c6 by user: 691799f9fc82f23f56bfa161","service":"timetracking-api","timestamp":"2025-11-15 11:56:47"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:56:47"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 11:56:47"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:56:48"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 11:56:49"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:56:56"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 11:56:57"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 11:57:05"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-11-01 to 2025-11-30","service":"timetracking-api","timestamp":"2025-11-15 11:57:06"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 12:04:49"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 12:04:49"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:04:49"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:04:50"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:04:59"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:04:59"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:04:59"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:05:00"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:05:00"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:05:01"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T06:35:00.440Z","service":"timetracking-api","timestamp":"2025-11-15 12:05:01"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:05:01"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T06:35:01.280Z","service":"timetracking-api","timestamp":"2025-11-15 12:05:02"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-11-14T18:30:00.000Z to 2025-11-15T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 12:05:02"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:05:02"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:05:02"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-11-14T18:30:00.000Z to 2025-11-15T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 12:05:03"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:05:03"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:05:58"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:05:59"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:06:23"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:06:24"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:06:25"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:06:26"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:07:40"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:07:41"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:07:41"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:07:41"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:07:42"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:07:43"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:09:45"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:09:46"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:09:46"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:09:47"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:09:48"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:09:48"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T06:39:47.713Z","service":"timetracking-api","timestamp":"2025-11-15 12:09:49"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:09:49"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T06:39:48.853Z","service":"timetracking-api","timestamp":"2025-11-15 12:09:50"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-11-14T18:30:00.000Z to 2025-11-15T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 12:09:50"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:09:50"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:09:50"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-11-14T18:30:00.000Z to 2025-11-15T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 12:09:51"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:09:52"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:10:29"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:10:29"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:10:30"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:10:30"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:10:34"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:10:35"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:10:56"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:10:57"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:10:57"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:10:57"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:10:57"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:10:58"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T06:40:57.722Z","service":"timetracking-api","timestamp":"2025-11-15 12:10:58"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:10:58"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T06:40:58.455Z","service":"timetracking-api","timestamp":"2025-11-15 12:10:59"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-11-14T18:30:00.000Z to 2025-11-15T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 12:10:59"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:10:59"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:10:59"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-11-14T18:30:00.000Z to 2025-11-15T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 12:11:00"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:11:00"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:11:24"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:11:25"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:11:33"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:11:33"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:11:34"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:11:34"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:11:36"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:11:37"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:11:37"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:11:38"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:11:38"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:11:39"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T06:41:38.612Z","service":"timetracking-api","timestamp":"2025-11-15 12:11:39"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:11:39"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T06:41:39.366Z","service":"timetracking-api","timestamp":"2025-11-15 12:11:40"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-11-14T18:30:00.000Z to 2025-11-15T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 12:11:40"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:11:40"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:11:40"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-11-14T18:30:00.000Z to 2025-11-15T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 12:11:41"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:11:41"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 12:13:28"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 12:13:28"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:13:28"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:13:29"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:13:29"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:13:30"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:13:30"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:13:31"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T06:43:30.433Z","service":"timetracking-api","timestamp":"2025-11-15 12:13:31"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:13:31"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T06:43:31.495Z","service":"timetracking-api","timestamp":"2025-11-15 12:13:32"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-11-14T18:30:00.000Z to 2025-11-15T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 12:13:32"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:13:32"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:13:32"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-11-14T18:30:00.000Z to 2025-11-15T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 12:13:33"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:13:34"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 12:15:48"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 12:15:48"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:15:48"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:15:49"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:15:49"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:15:50"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:15:50"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:15:51"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T06:45:50.518Z","service":"timetracking-api","timestamp":"2025-11-15 12:15:52"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:15:52"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T06:45:51.543Z","service":"timetracking-api","timestamp":"2025-11-15 12:15:52"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-11-14T18:30:00.000Z to 2025-11-15T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 12:15:53"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:15:53"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:15:53"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-11-14T18:30:00.000Z to 2025-11-15T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 12:15:54"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:15:54"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 12:16:08"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 12:16:09"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:16:09"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:16:10"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:16:10"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:16:10"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:16:10"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:16:11"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T06:46:10.619Z","service":"timetracking-api","timestamp":"2025-11-15 12:16:11"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:16:11"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T06:46:11.388Z","service":"timetracking-api","timestamp":"2025-11-15 12:16:12"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-11-14T18:30:00.000Z to 2025-11-15T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 12:16:13"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:16:13"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:16:13"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-11-14T18:30:00.000Z to 2025-11-15T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 12:16:14"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:16:14"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 12:19:10"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 12:19:11"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:19:11"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:19:12"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:19:12"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:19:12"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:19:13"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:19:13"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T06:49:12.875Z","service":"timetracking-api","timestamp":"2025-11-15 12:19:14"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:19:14"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T06:49:13.775Z","service":"timetracking-api","timestamp":"2025-11-15 12:19:15"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:19:15"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:19:15"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:19:16"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:19:32"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:19:32"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:19:33"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:19:34"}
+{"level":"info","message":"DELETE /api/time-entries/69179d232c85d7a1daae2369","service":"timetracking-api","timestamp":"2025-11-15 12:19:39"}
+{"level":"info","message":"Time entry deleted: 69179d232c85d7a1daae2369 by user: 691799f9fc82f23f56bfa161","service":"timetracking-api","timestamp":"2025-11-15 12:19:40"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:19:40"}
+{"level":"info","message":"DELETE /api/time-entries/69179c3c2c85d7a1daae22e1","service":"timetracking-api","timestamp":"2025-11-15 12:19:47"}
+{"level":"info","message":"Time entry deleted: 69179c3c2c85d7a1daae22e1 by user: 691799f9fc82f23f56bfa161","service":"timetracking-api","timestamp":"2025-11-15 12:19:48"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:19:48"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:19:51"}
+{"level":"info","message":"GET /api/time-entries/69181d27c4193002d88a80c6","service":"timetracking-api","timestamp":"2025-11-15 12:19:51"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:19:52"}
+{"level":"info","message":"GET /api/time-entries/69181d27c4193002d88a80c6","service":"timetracking-api","timestamp":"2025-11-15 12:19:52"}
+{"level":"info","message":"PUT /api/time-entries/69181d27c4193002d88a80c6","service":"timetracking-api","timestamp":"2025-11-15 12:20:16"}
+{"level":"info","message":"Time entry updated: 69181d27c4193002d88a80c6 by user: 691799f9fc82f23f56bfa161","service":"timetracking-api","timestamp":"2025-11-15 12:20:18"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:20:18"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:20:18"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:20:19"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:20:19"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:20:20"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:20:21"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:20:21"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:20:21"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:20:22"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T06:50:21.965Z","service":"timetracking-api","timestamp":"2025-11-15 12:20:23"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:20:23"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:20:23"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T06:50:23.393Z","service":"timetracking-api","timestamp":"2025-11-15 12:20:24"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:20:24"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:20:24"}
+{"level":"info","message":"Server running in development mode on port 8081","service":"timetracking-api","timestamp":"2025-11-15 12:21:21"}
+{"level":"error","message":"Error connecting to MongoDB: querySrv ECONNREFUSED _mongodb._tcp.cluster0.6ymsfwh.mongodb.net","service":"timetracking-api","timestamp":"2025-11-15 12:21:21"}
+{"level":"info","message":"Server running in development mode on port 8081","service":"timetracking-api","timestamp":"2025-11-15 12:21:41"}
+{"level":"info","message":"MongoDB Connected: ac-ouq4a8c-shard-00-02.6ymsfwh.mongodb.net","service":"timetracking-api","timestamp":"2025-11-15 12:21:43"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 12:21:44"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 12:21:46"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:21:47"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-11-01 to 2025-11-30","service":"timetracking-api","timestamp":"2025-11-15 12:21:48"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:22:51"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:22:52"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:22:52"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:22:53"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:22:53"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:22:53"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T06:52:53.007Z","service":"timetracking-api","timestamp":"2025-11-15 12:22:53"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:22:53"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T06:52:53.709Z","service":"timetracking-api","timestamp":"2025-11-15 12:22:54"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:22:54"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:22:54"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:22:55"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:23:00"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:23:01"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:23:03"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-11-01 to 2025-11-30","service":"timetracking-api","timestamp":"2025-11-15 12:23:04"}
+{"level":"info","message":"GET /api/reports/salary/export","service":"timetracking-api","timestamp":"2025-11-15 12:23:30"}
+{"level":"info","message":"Salary report exported for user: 691799f9fc82f23f56bfa161, period: 2025-11-01 to 2025-11-30","service":"timetracking-api","timestamp":"2025-11-15 12:23:31"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:24:02"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-11-01 to 2025-11-30","service":"timetracking-api","timestamp":"2025-11-15 12:24:03"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:24:07"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:24:08"}
+{"level":"info","message":"POST /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:25:19"}
+{"level":"info","message":"Job created: 691823d766e25c80f1c80336 by user: 691799f9fc82f23f56bfa161","service":"timetracking-api","timestamp":"2025-11-15 12:25:20"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:25:20"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:25:21"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:25:24"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:25:24"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:25:25"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:25:25"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:25:28"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:25:33"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:25:36"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:25:40"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:25:41"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:25:41"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:25:41"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:25:42"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:25:42"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T06:55:41.821Z","service":"timetracking-api","timestamp":"2025-11-15 12:25:42"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:25:42"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T06:55:42.625Z","service":"timetracking-api","timestamp":"2025-11-15 12:25:43"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:25:43"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:25:43"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:25:44"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:25:47"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:25:48"}
+{"level":"info","message":"POST /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:26:04"}
+{"level":"info","message":"Time entry created: 6918240466e25c80f1c80389 by user: 691799f9fc82f23f56bfa161","service":"timetracking-api","timestamp":"2025-11-15 12:26:05"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:26:05"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:26:05"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:26:05"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:26:06"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:26:08"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:26:09"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:26:14"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-11-01 to 2025-11-30","service":"timetracking-api","timestamp":"2025-11-15 12:26:15"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:26:39"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-11-01 to 2025-11-30","service":"timetracking-api","timestamp":"2025-11-15 12:26:41"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 12:35:23"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 12:35:37"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:35:37"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:35:39"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:35:42"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:35:43"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:35:43"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:35:44"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:35:44"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:35:45"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T07:05:45.142Z","service":"timetracking-api","timestamp":"2025-11-15 12:35:46"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:35:46"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:35:47"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:35:47"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:35:47"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:35:48"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:35:49"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T07:05:48.281Z","service":"timetracking-api","timestamp":"2025-11-15 12:35:50"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:35:50"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:35:52"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:36:40"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:36:41"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:36:41"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:36:42"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:36:42"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:36:43"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T07:06:42.357Z","service":"timetracking-api","timestamp":"2025-11-15 12:36:43"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:36:43"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T07:06:43.079Z","service":"timetracking-api","timestamp":"2025-11-15 12:36:44"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:36:44"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:36:44"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:36:45"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:36:56"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:36:57"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:42:16"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:42:23"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:42:23"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:42:24"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:42:24"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:42:26"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T07:12:26.017Z","service":"timetracking-api","timestamp":"2025-11-15 12:42:29"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:42:29"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T07:12:24.418Z","service":"timetracking-api","timestamp":"2025-11-15 12:42:32"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:42:32"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:42:32"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:42:35"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:42:45"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:42:46"}
+{"level":"info","message":"POST /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:43:06"}
+{"level":"info","message":"Time entry created: 6918280366e25c80f1c8044c by user: 691799f9fc82f23f56bfa161","service":"timetracking-api","timestamp":"2025-11-15 12:43:07"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:43:07"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:43:07"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:43:08"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:43:08"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:43:19"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:43:20"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:43:20"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:43:21"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:43:21"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:43:22"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T07:13:21.154Z","service":"timetracking-api","timestamp":"2025-11-15 12:43:22"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:43:22"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T07:13:22.028Z","service":"timetracking-api","timestamp":"2025-11-15 12:43:23"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:43:24"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:43:24"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:43:25"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:43:40"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:43:41"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:43:43"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-11-01 to 2025-11-30","service":"timetracking-api","timestamp":"2025-11-15 12:43:44"}
+{"level":"info","message":"GET /api/reports/salary/monthly","service":"timetracking-api","timestamp":"2025-11-15 12:44:01"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-30T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 12:44:02"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:44:41"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:44:42"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:44:42"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:44:42"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:44:43"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:44:43"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T07:14:42.889Z","service":"timetracking-api","timestamp":"2025-11-15 12:44:44"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:44:44"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T07:14:43.604Z","service":"timetracking-api","timestamp":"2025-11-15 12:44:44"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:44:44"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:44:44"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:44:45"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 12:46:16"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 12:46:17"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:46:17"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:46:18"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:46:18"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:46:18"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:46:19"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:46:19"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T07:16:18.825Z","service":"timetracking-api","timestamp":"2025-11-15 12:46:20"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:46:20"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T07:16:19.574Z","service":"timetracking-api","timestamp":"2025-11-15 12:46:20"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:46:21"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:46:21"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:46:22"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:46:27"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:46:28"}
+{"level":"info","message":"PUT /api/jobs/69179a6dfc82f23f56bfa18e","service":"timetracking-api","timestamp":"2025-11-15 12:46:34"}
+{"level":"info","message":"Job updated: 69179a6dfc82f23f56bfa18e by user: 691799f9fc82f23f56bfa161","service":"timetracking-api","timestamp":"2025-11-15 12:46:35"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:46:35"}
+{"level":"info","message":"PUT /api/jobs/69179a6dfc82f23f56bfa18e","service":"timetracking-api","timestamp":"2025-11-15 12:46:39"}
+{"level":"info","message":"Job updated: 69179a6dfc82f23f56bfa18e by user: 691799f9fc82f23f56bfa161","service":"timetracking-api","timestamp":"2025-11-15 12:46:40"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:46:40"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:46:45"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:46:46"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:46:48"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:46:49"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:46:50"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:46:51"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:46:53"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:46:53"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:46:54"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:46:55"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:49:46"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:49:46"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:50:13"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:50:13"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 12:53:15"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 12:53:15"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:53:16"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:53:16"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:53:17"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:53:17"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:53:23"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:53:24"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:53:26"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:53:27"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:53:27"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:53:28"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:53:28"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:53:28"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T07:23:28.192Z","service":"timetracking-api","timestamp":"2025-11-15 12:53:29"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:53:29"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T07:23:28.857Z","service":"timetracking-api","timestamp":"2025-11-15 12:53:30"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:53:30"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:53:30"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:53:31"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:53:36"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:53:36"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:53:37"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:53:37"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:54:53"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:54:53"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:55:07"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:55:07"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:55:10"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:55:11"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:56:35"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:56:35"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:56:36"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:56:36"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:56:50"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:56:50"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:58:20"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:58:22"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:58:23"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:58:26"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:58:27"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:58:35"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 12:58:45"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 12:58:46"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:58:46"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:58:46"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:58:47"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:58:48"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:58:57"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:58:58"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:59:00"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:59:01"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:59:01"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:59:01"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:59:01"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:59:02"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T07:29:01.589Z","service":"timetracking-api","timestamp":"2025-11-15 12:59:03"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:59:03"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T07:29:02.524Z","service":"timetracking-api","timestamp":"2025-11-15 12:59:03"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:59:04"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:59:04"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:59:05"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 12:59:28"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 12:59:28"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 12:59:35"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 12:59:36"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:59:36"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 12:59:37"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:59:37"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:59:37"}
+{"level":"info","message":"GET /api/time-entries/summary/stats","service":"timetracking-api","timestamp":"2025-11-15 12:59:38"}
+{"level":"info","message":"GET /api/reports/salary","service":"timetracking-api","timestamp":"2025-11-15 12:59:38"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T07:29:37.884Z","service":"timetracking-api","timestamp":"2025-11-15 12:59:39"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:59:39"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-15T07:29:38.694Z","service":"timetracking-api","timestamp":"2025-11-15 12:59:40"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:59:40"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:59:40"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 12:59:42"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 13:04:05"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 13:04:05"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 13:04:05"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 13:04:06"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 13:04:14"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 13:04:14"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 13:04:15"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 13:04:15"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 13:04:23"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 13:04:23"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 13:05:36"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 13:05:48"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 13:06:12"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 13:06:31"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 13:06:44"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 13:07:00"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 13:08:02"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 13:08:02"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 13:08:03"}
+{"level":"info","message":"GET /api/time-entries","service":"timetracking-api","timestamp":"2025-11-15 13:08:04"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 13:08:06"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 13:08:07"}
+{"level":"info","message":"GET /api/reports/salary/monthly","service":"timetracking-api","timestamp":"2025-11-15 13:08:17"}
+{"level":"info","message":"Salary report generated for user: 691799f9fc82f23f56bfa161, period: 2025-10-31T18:30:00.000Z to 2025-11-30T18:29:59.999Z","service":"timetracking-api","timestamp":"2025-11-15 13:08:19"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 13:10:20"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 13:11:18"}
+{"level":"info","message":"GET /api/auth/me","service":"timetracking-api","timestamp":"2025-11-15 13:11:18"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 13:11:18"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 13:11:19"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 13:11:21"}
+{"level":"info","message":"GET /api/jobs","service":"timetracking-api","timestamp":"2025-11-15 13:11:21"}
